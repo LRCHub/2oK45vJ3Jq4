@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "STRAIGHT JET",
+  "base_artist": "栗林みな実",
+  "createdAt": "2026-02-20T23:20:22.411783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STRAIGHT JET",
+      "artist": "栗林みな実",
+      "has_synced": true,
+      "path": "select/01_STRAIGHT_JET_栗林みな実.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STRAIGHT JET",
+      "artist": "Minami",
+      "has_synced": true,
+      "path": "select/02_STRAIGHT_JET_Minami.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STRAIGHT JET",
+      "artist": "Minami Kuribayashi",
+      "has_synced": true,
+      "path": "select/03_STRAIGHT_JET_Minami_Kuribayashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Straight Jet",
+      "artist": "Mami",
+      "has_synced": true,
+      "path": "select/04_Straight_Jet_Mami.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STRAIGHT JET",
+      "artist": "Kuribayashi Minami",
+      "has_synced": true,
+      "path": "select/05_STRAIGHT_JET_Kuribayashi_Minami.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STRAIGHT JET",
+      "artist": "栗林みな実",
+      "has_synced": true,
+      "path": "select/06_STRAIGHT_JET_栗林みな実.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "STRAIGHT JET (off vocal)",
+      "artist": "栗林みな実",
+      "has_synced": true,
+      "path": "select/07_STRAIGHT_JET_(off_vocal)_栗林みな実.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "STRAIGHT JET",
+      "artist": "Infinite Stratos",
+      "has_synced": true,
+      "path": "select/08_STRAIGHT_JET_Infinite_Stratos.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "STRAIGHT JET (off vocal)",
+      "artist": "Kuribayashi Minami",
+      "has_synced": true,
+      "path": "select/09_STRAIGHT_JET_(off_vocal)_Kuribayashi_Minami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STRAIGHT JET",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_01_STRAIGHT_JET_栗林_みな実.txt"
+    }
+  ]
+}
